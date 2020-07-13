@@ -1,6 +1,0 @@
-framework module Pods_Instafeed {
-  umbrella header "Pods-Instafeed-umbrella.h"
-
-  export *
-  module * { export * }
-}
